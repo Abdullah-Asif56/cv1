@@ -1,0 +1,36 @@
+h2{text-decoration: underline; text-decoration-color:#0B666A ;}
+
+
+
+h2{color: hotpink;  }
+hr{
+    border-color: #FF6464;border-style: none;border-top-style: double;width: 50%;border-width: 4px;
+}
+
+body{text-align: left ;}
+hr{width:30%;
+    text-align:left;margin-left:0}
+table{text-align: left ;}
+body{
+    background: radial-gradient(#D7BBF5, #A076F9 ,#6528F7,#7A316F);
+}
+h1{
+   color: hotpink; 
+}
+
+img {width: 250px;
+    border : 1px solid black;
+  }
+p{
+    color: peachpuff;
+}
+ul{
+    color: peachpuff;
+}
+table{
+    color: peachpuff;
+}
+
+
+
+  
